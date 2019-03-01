@@ -1,1 +1,2 @@
-{:success=>true, :data=>#Wed, 27 Feb 2019 17:04:48 KST +09:00, :updated_at=>Fri, 01 Mar 2019 12:40:16 KST +09:00, :id=>737, :title=>"[점검] 비트렉스 엔진 업그레이드로 인한 BTC/ETH/USDT 마켓 일시 점검 안내 (완료)", :view_count=>160622}] fixed_notices=[]>}
+{'success': True, 'data': {'total_count': 512, 'total_pages': 512, 'list': [{'created_at': '2019-02-27T17:04:48+09:00', 'updated_at': '2019-03-01T14:20:22+09:00', 'id': 737, 'title': '[점검] 비트렉스 엔진 업그레이드로 인한 BTC/ETH/USDT 마켓 일시 점검 안내 (완료)', 'view_count': 164743}], 'fixed_notices': []}}
+[점검] 비트렉스 엔진 업그레이드로 인한 BTC/ETH/USDT 마켓 일시 점검 안내 (완료)
